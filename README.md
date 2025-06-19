@@ -20,7 +20,7 @@
     ```
 
 ##  **⏰ Run**
-1. 🖥️** Run**
+1. 🖥️ **Run**
     ```bash
     cd spotify 
     python main.py
