@@ -2,6 +2,8 @@
 .venv
 .vscode
 
-spotify/data/my_spotify_data.zip
+spotify/data/
 spotify/spotify_analysis_report.xlsx
 
+tiktok/data/
+tiktok/tiktok_analysis_report.xlsx
