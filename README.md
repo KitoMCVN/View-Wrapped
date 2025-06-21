@@ -20,7 +20,7 @@ A quick guide to analyze your Spotify, TikTok & more data.
     *   ☁️ **Download**: Dowload [here](https://www.spotify.com/us/account/privacy/). This may take a few days. You'll get a ZIP.
     *   📁 **Organize**:
         *   ➡️ **Inside `view-wrapped/spotify/`, create a subfolder named `data`.**
-        *   ➡️ **Place your downloaded Spotify data ZIP (e.g., `my_spotify_data.zip` containing `StreamingHistory*.json` files) or individual `StreamingHistory*.json` files *into* this `view-wrapped/spotify/data/` folder.**
+        *   ➡️ **Place your downloaded Spotify data ZIP (e.g., `my_spotify_data.zip` containing `Streaming_History_*.json` files) or individual `Streaming_History_*.json` files *into* this `view-wrapped/spotify/data/` folder.**
     *   🌳 **Directory Structure**:
         ```
         view-wrapped/
@@ -51,7 +51,7 @@ A quick guide to analyze your Spotify, TikTok & more data.
     *   ☁️ **Download**: Request your data from the TikTok app (Profile > ☰ > Settings and privacy > Account > Download your data > JSON format). This may take a few days.
     *   📁 **Organize**:
         *   ➡️ **Inside `view-wrapped/tiktok/`, create a subfolder named `data`.**
-        *   ➡️ **Place your downloaded TikTok data ZIP (e.g., `TikTok_Data_YourUsername.zip`) *into* this `view-wrapped/tiktok/data/` folder.** The script typically looks for files starting with `TikTok_Data_*.zip` in this `data` folder.
+        *   ➡️ **Place your downloaded TikTok data ZIP (e.g., `TikTok_Data_xxxxxxx.zip`) *into* this `view-wrapped/tiktok/data/` folder.** The script typically looks for files starting with `TikTok_Data_*.zip` in this `data` folder.
     *   🌳 **Directory Structure**:
         ```
         view-wrapped/
